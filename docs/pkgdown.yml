@@ -3,7 +3,7 @@ pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   vignette-survRM2adapt: vignette-survRM2adapt.html
-last_built: 2023-03-23T15:46Z
+last_built: 2023-03-29T13:52Z
 urls:
   reference: https://www.uno1lab.com/survRM2adapt/reference
   article: https://www.uno1lab.com/survRM2adapt/articles

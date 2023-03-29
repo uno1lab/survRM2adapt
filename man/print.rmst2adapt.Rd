@@ -13,6 +13,9 @@
 
 \item{...}{Further arguments ignored in this function}
 }
+\value{
+returns summary output for class 'rmst2adapt'
+}
 \description{
 S3 method for class 'rmst2adapt'
 }

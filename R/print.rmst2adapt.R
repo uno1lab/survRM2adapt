@@ -5,6 +5,7 @@
 #' @param x Object to be printed
 #' @param digits Integer indicating the number of decimal places
 #' @param ... Further arguments ignored in this function
+#' @return returns summary output for class 'rmst2adapt'
 #' @export
 ######################################
 # print.rmst2adapt (hidden)

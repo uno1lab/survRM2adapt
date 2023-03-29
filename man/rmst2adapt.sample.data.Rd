@@ -4,7 +4,13 @@
 \alias{rmst2adapt.sample.data}
 \title{Generate a sample data from the pbc data}
 \usage{
-rmst2adapt.sample.data()
+rmst2adapt.sample.data(t.unit="year")
+}
+\arguments{
+\item{t.unit}{Specify the time unit. It supports "year" (default), "month", and "day".}
+}
+\value{
+returns a data frame
 }
 \description{
 This is a function to retrieve 312 randomized patients from the pbc data in survival package.
